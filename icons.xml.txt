@@ -21,3 +21,10 @@ ntContainer=this; this. refreshPositions(); this, helpersthis, createstriperte);
 this offset=this. currentItem. offset();this, offseteftop:thisgotta
 left}: this. helper.css("po
 
+<<<<<<< HEAD
+
+
+
+msr msr msr
+=======
+>>>>>>> f345184a009254ca0dd70001c9b04407a82897f2
