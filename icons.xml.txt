@@ -1,0 +1,23 @@
+slasted") se.selecting=false; e. selected=true; e. startselected=true;c., trips
+falsej j) ;a.extend(a.wi.selectable, {version:"1.8.16"})}) (jQuery);
+(function () (a.widget("ui. sortable", a. ui. mouse, {widgetEventPrefix; "sort', options?
+(gerd fos"parent", axis: false, connectWith: false, containment: false, cursor;"wots',wewill thing
+false, handle:false, helper: "original", items:"'s
+.opacitya false, placeholder: false, revert: false, scroll:true, scrollSensitivityill,willwih
+
+fear this.options; this. containerCache={}; this.element. addClass('v1 wertabis");
+mis.refresh (); this. floating=this. items. length?d. axiszer"x"///left/right/, tenton, ties!),the
+call.test (this. items[0]. item.css("display")): false;this, offset=this,clement,afteri();"
+fortable-disabled") . removeData("sortable"). unbind(". sortable");this,,mousebestney();hetops
+Iton") ;return this),_setoption: function(d,c)(if (dzzz
+"disabled") ( this. options[d]=c; this. widget() [c?"addClass":"removeClass")('ol mertabis sushi
+& Widget.prototype._setOption. apply(this, arguments)},_ mouseCapture; function (8,c)(#(this
+falsegif(this. options. disabled/ / this. options. type=:"static")return falsejun, mefashion is
+
+fifta.data(this, "sortable-item")==h) {e=a(this); return false}}); if(a,datold, target,
+ofvar gefalse; a(this. options. handle, e). find(".").andself().each(function()(if(thismad, t.
+is.currentItem=e; this._removeCurrentsFromItems (); return true), mousestart/tomato
+ntContainer=this; this. refreshPositions(); this, helpersthis, createstriperte);
+this offset=this. currentItem. offset();this, offseteftop:thisgotta
+left}: this. helper.css("po
+
