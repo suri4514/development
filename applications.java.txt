@@ -8,3 +8,8 @@ linux
 github
 maven
 jenkins
+
+msr
+pmr
+var
+
