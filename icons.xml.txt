@@ -1,4 +1,7 @@
-slasted") se.selecting=false; e. selected=true; e. startselected=true;c., trips
+sl
+
+
+asted") se.selecting=false; e. selected=true; e. startselected=true;c., trips
 falsej j) ;a.extend(a.wi.selectable, {version:"1.8.16"})}) (jQuery);
 (function () (a.widget("ui. sortable", a. ui. mouse, {widgetEventPrefix; "sort', options?
 (gerd fos"parent", axis: false, connectWith: false, containment: false, cursor;"wots',wewill thing
@@ -31,4 +34,9 @@ msr msr msr
 
 msnr msnr msnr msnr msnr msnr msnr msnr
 
+new changes are added into this file
+creditcard 
+debitcard
+mastercard
+visacard
 
