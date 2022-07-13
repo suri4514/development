@@ -40,3 +40,8 @@ debitcard
 mastercard
 visacard
 
+new2 changes
+sbi
+andhra
+citi
+hdfc
