@@ -45,3 +45,6 @@ sbi
 andhra
 citi
 hdfc
+stock brokage changes 
+national stock exchange
+security bons
